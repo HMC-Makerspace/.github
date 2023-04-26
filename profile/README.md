@@ -1,4 +1,4 @@
-# HMC Makerspace Github Organization
+# HMC Makerspace
 The Harvey Mudd Makerspace is a student-run facility for providing access to tools, resources, space, and storage to work on a variety of projects.
 
 This organization serves as a centralized profile for all software developed for the Makerspace. Currently under development:
